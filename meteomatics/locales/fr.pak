@@ -1,0 +1,28 @@
+{
+    "message": {
+        "A weather symbol could not be determined": "les conditions météo ne peuvent être déterminées",
+        "Clear sky": "le ciel est dégagé",
+        "Light clouds": "le ciel est légèrement nuageux",
+        "Partly cloudy": "le ciel est partiellement nuageux",
+        "Cloudy": "le ciel est nuageux",
+        "Rain": "il pleut",
+        "Rain and snow / sleet": "il pleut et il y a de la neige ou du verglas",
+        "Snow": "il neige",
+        "Rain shower": "il y a une averse de pluie",
+        "Snow shower": "il y a une averse de neige",
+        "Sleet shower": "il y a une averse de grésil",
+        "Light Fog": "il y a du brouillard léger",
+        "Dense fog": "il y a du brouillard dense",
+        "Freezing rain": "il y a une pluie verglaçante",
+        "Thunderstorms": "il y a un orage",
+        "Drizzle": "il bruine",
+        "Sandstorm": "il y a une tempête de sable",
+        "tts": "A $$, il fait $$ degré et $$."
+    },
+    "error": {
+        "configCity": "Configurez la ville pour avoir la météo",
+        "noCoord": "Les coordonnées de '$$' n'ont pas été trouvées",
+        "noIdentification": "Configurez vos identifiants meteomatics avant de continuer",
+        "meteo": "Erreur lors de la récupération de la météo:"
+    }
+}

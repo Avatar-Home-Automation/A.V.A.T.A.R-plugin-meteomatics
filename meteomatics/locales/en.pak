@@ -1,0 +1,28 @@
+{
+    "message": {
+        "A weather symbol could not be determined": "weather conditions cannot be determined",
+        "Clear sky": "the sky is clear",
+        "Light clouds": "the sky is slightly cloudy",
+        "Partly cloudy": "the sky is partly cloudy",
+        "Cloudy": "the sky is cloudy",
+        "Rain": "it's raining",
+        "Rain and snow / sleet": "it's raining and there is snow or sleet",
+        "Snow": "it's snowing",
+        "Rain shower": "there is a rain shower",
+        "Snow shower": "there is a snow shower",
+        "Sleet shower": "there is a sleet shower",
+        "Light Fog": "there is light fog",
+        "Dense fog": "there is dense fog",
+        "Freezing rain": "there is freezing rain",
+        "Thunderstorms": "there is a thunderstorm",
+        "Drizzle": "it's drizzling",
+        "Sandstorm": "there is a sandstorm",
+        "tts": "In $$, it is $$ degree and $$."
+    },
+        "error": {
+        "configCity": "Configure the city to get the weather",
+        "noCoord": "Coordinates for '$$' were not found",
+        "noIdentification": "Set up your meteomatics credentials before continuing",
+        "meteo": "Error while fetching the weather:"
+    }
+}
