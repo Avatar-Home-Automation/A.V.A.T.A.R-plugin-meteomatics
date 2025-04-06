@@ -1,1 +1,1 @@
-{"modules":{"meteomatics":{"version":"1.0.0","name":"Meteomatics","password":"","username":"","city":"","rules":{"getWeather":["{give} * weather","what {be] * weather"]}}}}
+{"modules":{"meteomatics":{"version":"1.0","name":"Meteomatics","password":"","username":"","city":"","rules":{"getWeather":["{give} * weather","what {be] * weather","what time {do} (it|he)"]}}}}
