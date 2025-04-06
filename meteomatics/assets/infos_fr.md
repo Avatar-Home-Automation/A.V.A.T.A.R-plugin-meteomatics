@@ -20,10 +20,6 @@ Meteo Matics vous donne la possibilité de connaitre la météo du jour de la vi
 4. Ajoutez votre password dans le paramètre `password`
 5. Ajoutez la ville dans le paramètre `city`
 
-## Compatibility
-
-Meteo matics peut être installé sur le serveur et les clients.
-
 
 ## Ajouter une langue
 Vous pouvez localiser le discours d'A.V.A.T.A.R en ajoutant un pack de langue dans le dossier _meteomatics/locales_, en copiant un pack existant et en modifiant les valeurs des clés.

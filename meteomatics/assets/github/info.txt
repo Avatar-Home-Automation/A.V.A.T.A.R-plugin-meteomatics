@@ -1,6 +1,4 @@
 
 `Meteo matics` gives you the ability to know today's weather for the city of your choice.
 
-`Meteo matics` can be installed on both the server and the clients.
-
 It is also used for the scenario creation examples in the documentation.

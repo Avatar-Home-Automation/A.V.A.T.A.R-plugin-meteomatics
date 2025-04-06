@@ -20,11 +20,6 @@
 4. Add your password in the `password` parameter.
 5. Add the city in the `city` parameter.
 
-## Compatibility
-
-`Meteo matics` can be installed on both the server and the clients.
-
-
 ## Adding a language
 You can localize A.V.A.T.A.R speech by adding a language pack to the _meteomatics/locales_ folder, copying an existing pack and modifying the key values.
 
